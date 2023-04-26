@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About</title>
+
+    <!-- swiper css link -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" />
+    <!-- font awesome cdn link -->
+    <link rel = "stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <!-- custom css file  link -->
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="script.js">
+
+</head>
+<body>
+<!-- header section start -->
+
+<section class="header">
+
+    <a href="index.html" class="logo">TravelGuidence.</a>
+    <nav class="navbar">
+        <a href="index.html">Home</a>
+        <a href="about.php">About</a>
+        <a href="package.php">Package</a>
+        <a href="book.php">Book</a>
+    </nav>
+    <div id="menu-btn" class="fas fa-bars"></div>
+</section>    
+<!-- header section end -->
+
+<div class="heading" style="background:url(package-background.jpg) no-repeat">
+    <h1>Package</h1>
+</div>
+
+
+<!-- package section starts  -->
+
+<section class="packages">
+    <h1 class="heading-title">Top Destinations</h1>
+
+    <div class="box-container">
+
+        <div class="box">
+            <div class="image">
+                <img src="home-packages01.jpg" alt="" class="s">
+            </div>
+            <div class="content">
+                <h3>Cox's Bazar Tour</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates modi perspiciatis, obcaecati
+                    consequuntur sequi facere praesentium quo ipsam unde, aliquam harum temporibus. Repudiandae, 
+                    doloremque aut possimus veritatis tempora odit provident?</p>
+                    <a href="book.php" class="btn"> BOOK NOW</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="image">
+                <img src="home-packages9.jpg" alt="" class="s">
+            </div>
+            <div class="content">
+                <h3>Sundarban Tour</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates modi perspiciatis, obcaecati
+                    consequuntur sequi facere praesentium quo ipsam unde, aliquam harum temporibus. Repudiandae, 
+                    doloremque aut possimus veritatis tempora odit provident?</p>
+                    <a href="book.php" class="btn"> BOOK NOW</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="image">
+                <img src="home-packages4.jpg" alt="" class="s">
+            </div>
+            <div class="content">
+                <h3>Bandarban Tour</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates modi perspiciatis, obcaecati
+                    consequuntur sequi facere praesentium quo ipsam unde, aliquam harum temporibus. Repudiandae, 
+                    doloremque aut possimus veritatis tempora odit provident?</p>
+                    <a href="book.php" class="btn"> BOOK NOW</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="image">
+                <img src="home-packages5.jpg" alt="" class="s">
+            </div>
+            <div class="content">
+                <h3>Kuakata Tour</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates modi perspiciatis, obcaecati
+                    consequuntur sequi facere praesentium quo ipsam unde, aliquam harum temporibus. Repudiandae, 
+                    doloremque aut possimus veritatis tempora odit provident?</p>
+                    <a href="book.php" class="btn"> BOOK NOW</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="image">
+                <img src="home-packages6.jpg" alt="" class="s">
+            </div>
+            <div class="content">
+                <h3>Shajek Tour</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates modi perspiciatis, obcaecati
+                    consequuntur sequi facere praesentium quo ipsam unde, aliquam harum temporibus. Repudiandae, 
+                    doloremque aut possimus veritatis tempora odit provident?</p>
+                    <a href="book.php" class="btn"> BOOK NOW</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="image">
+                <img src="home-packages7.jpg" alt="" class="s">
+            </div>
+            <div class="content">
+                <h3>Khagrachari Tour</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates modi perspiciatis, obcaecati
+                    consequuntur sequi facere praesentium quo ipsam unde, aliquam harum temporibus. Repudiandae, 
+                    doloremque aut possimus veritatis tempora odit provident?</p>
+                    <a href="book.php" class="btn"> BOOK NOW</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="image">
+                <img src="home-packages8.jpg" alt="" class="s">
+            </div>
+            <div class="content">
+                <h3>Rangamati Tour</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates modi perspiciatis, obcaecati
+                    consequuntur sequi facere praesentium quo ipsam unde, aliquam harum temporibus. Repudiandae, 
+                    doloremque aut possimus veritatis tempora odit provident?</p>
+                    <a href="book.php" class="btn"> BOOK NOW</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="image">
+                <img src="home-packages2.jpg" alt="" class="s">
+            </div>
+            <div class="content">
+                <h3>Camping Tour</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates modi perspiciatis, obcaecati
+                    consequuntur sequi facere praesentium quo ipsam unde, aliquam harum temporibus. Repudiandae, 
+                    doloremque aut possimus veritatis tempora odit provident?</p>
+                    <a href="book.php" class="btn"> BOOK NOW</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="image">
+                <img src="home-packages10.jpg" alt="" class="s">
+            </div>
+            <div class="content">
+                <h3>Panchagar Tour</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates modi perspiciatis, obcaecati
+                    consequuntur sequi facere praesentium quo ipsam unde, aliquam harum temporibus. Repudiandae, 
+                    doloremque aut possimus veritatis tempora odit provident?</p>
+                    <a href="book.php" class="btn"> BOOK NOW</a>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="load-more">
+        <span class="btn">Load More</span>
+    </div>
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- package section ends -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- footer section starts -->
+<section class = "footer">
+    <div  class="box-container">
+
+        <div class="box">
+            <h3>Quick Links</h3>
+            <a href="home.php"> <i class="fas fa-angle-right"></i> Home</a>
+            <a href="about.php"> <i class="fas fa-angle-right"></i> About</a>
+            <a href="package.php"> <i class="fas fa-angle-right"></i> Package</a>
+            <a href="book.php"> <i class="fas fa-angle-right"></i> Book</a>
+        </div>
+
+        <div class="box">
+            <h3>Extra Links</h3>
+            <a href="#"> <i class="fas fa-angle-right"></i> Ask Questions</a>
+            <a href="#"> <i class="fas fa-angle-right"></i> About Us</a>
+            <a href="#"> <i class="fas fa-angle-right"></i> Privacy Policy</a>
+            <a href="#"> <i class="fas fa-angle-right"></i> Terms of use</a>
+        </div>
+
+        <div class="box">
+            <h3>Contact Info</h3>
+            <a href="#"> <i class="fas fa-phone"></i> +01681492198</a>
+            <a href="#"> <i class="fas fa-phone"></i> +01681492198</a>
+            <a href="#"> <i class="fas fa-envelop"></i> samitsah99@gmail.com</a>
+            <a href="#"> <i class="fas fa-map"></i> Dhaka,Bangladesh</a>
+        </div>
+
+        <div class="box">
+            <h3>Follow Us</h3>
+            <a href="#"> <i class="fas fa-facebook-f"></i> Facebook</a>
+            <a href="#"> <i class="fas fa-twitter"></i> Twitter</a>
+            <a href="#"> <i class="fas fa-instagram"></i> Instagram</a>
+            <a href="#"> <i class="fas fa-linkedin"></i> Linkedin</a>
+        </div>
+
+    </div>
+
+    <div class="credit"> Created by <span>Mr. Samit Saha</span> | all rights reserved! </div>
+</section>
+<!-- footer section ends -->
+
+
+<!-- swiper js link -->
+    <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
+<!-- custom js life link -->
+    <script src="script.js"></script>
+</body>
+</html>
