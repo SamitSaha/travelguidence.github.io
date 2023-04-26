@@ -14,10 +14,11 @@
         $request = " insert into book_form(name,email,phone,address,location,guests,arrival,leaving) values
         ('$name','$email','$phone','$address','$location','$guests','$arrival','$leaving') ";
         mysqli_query($connection, $request);
-        header('location:book.php');
+        header('location:book.html');
 
     }
     else{
         echo 'something went wrong try again';
+        
     }
 ?>
